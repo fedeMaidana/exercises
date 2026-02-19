@@ -1,0 +1,1 @@
+Print the lyrics of the Christmas song "The Twelve Days of Christmas", taking advantage of the repetition in the song.

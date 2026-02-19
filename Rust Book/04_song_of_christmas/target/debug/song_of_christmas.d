@@ -1,0 +1,1 @@
+C:\Users\marti\OneDrive\Documentos\fede\exercises\Rust\ Book\song_of_christmas\target\debug\song_of_christmas.exe: C:\Users\marti\OneDrive\Documentos\fede\exercises\Rust\ Book\song_of_christmas\src\main.rs
