@@ -1,0 +1,1 @@
+Given a list of integers, use a vector and return the median (when sorted, the value in the middle position) and the mode (the value that occurs most frequently; a hash map will be useful here) of the list.
